@@ -174,7 +174,7 @@ MODEL_PATH=quake_model.pkl
   <img src="Assets/Trends1.png" width = "700"/>
 
   ### Predictions
-   <img src="Assets/Predictions.png" width = "700"/>
+   <img src="Assets/Pred.png" width = "700"/>
 
 
 
